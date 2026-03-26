@@ -1,3 +1,6 @@
+# ♟️ AI Chess Engine
+
+An intelligent chess game using multiple AI search algorithms like Minimax and Alpha-Beta Pruning.
 # Chess Engine — Backend API
 
 Node.js + Express backend for the Chess Engine AI project.  
